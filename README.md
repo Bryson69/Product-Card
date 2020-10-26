@@ -6,7 +6,7 @@ Product Card Ui Design
 Beautiful product card using html and css, contains an image, title, price.
 
 
-## CLick on the live site to see its effects [Product card](https://bryson69.github.io/Product-Card/)
+## Click on the live site to see its effects [Product card](https://bryson69.github.io/Product-Card/)
 
 
 # Support and Contacts
