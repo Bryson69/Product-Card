@@ -1,4 +1,4 @@
-<h1 align="center">Product Card Ui Design</h1>
+<h1 align="center">Product Card UI Design</h1>
 
 
 ## Description
